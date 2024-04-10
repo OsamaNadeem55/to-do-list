@@ -1,0 +1,19 @@
+{
+  "name": "osamanadeem5545-to-do-list",
+  "version": "2.0.1",
+  "description": "This is a to do list",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Osama Nadeem",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
